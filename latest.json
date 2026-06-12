@@ -4,8 +4,8 @@
   "pub_date": "2025-06-11T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "abc123def456...",
-      "url": "https://tu-servidor.com/mi-app-1.1.0-x64.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVE5IUi82bW5hWFd5Wk1SSmRrUUFCMnozcS9ZSlpKMmVEWURlWFFXR25ZeTVobVN4SW1Rcmk0UU5RaHpJMmc1VGlDSDBDN0xQbDEzc0pPMWNRM05lbDltTWlEMHJPamdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjI5MzU1CWZpbGU6cmF3cl8wLjEuMF94NjRfZW4tVVMubXNpCmovSlJVUVM0dXNUN0dRenlhTVJnWXlza1BjL0VLQW1QOGg2dGpNeWxNNlVjc2o2Tm9BMEg2Q1A2dFFHeXBnTndlOG1xWEdrc3J6TXVUZXVIVDJTOUJBPT0K",
+      "url": "https://rawencat-public.wild-waterfall-5a88.workers.dev/rawr_0.1.0_x64_en-US.msi"
     }
   }
 }
